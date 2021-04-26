@@ -1,5 +1,5 @@
 # Project Flappy Bird
-![Logo](https://github.com/vodoanhoanglong/BTL-Game-FlappyBird/blob/master/Resources/res/Splash%20Background.png?raw=true)
+![Logo](https://labx.org/wp-content/uploads/2019/09/EE-lets-play-780x320.jpg)
 - Install Visual Studio.
 - Research the keywords below and follow. 
 ```bash
